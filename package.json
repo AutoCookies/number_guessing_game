@@ -1,0 +1,14 @@
+{
+  "name": "number-guessing-game",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.0",
+    "play-sound": "^1.1.6"
+  },
+  "bin": {
+    "number-guessing-game": "./index.js"
+  }
+}
